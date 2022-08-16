@@ -21,7 +21,7 @@ Me encanta lo que hago, disfruto del proceso y estoy en constante crecimiento.
 TechSkills
 HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB, PostgreSQL, Git, Scrum.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krqui&label=Profile%20views&color=0e75b6&style=flat" alt="krqui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Felipebravo-96&label=Profile%20views&color=0e75b6&style=flat" alt="Felipebravo-96" /> </p>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](#)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Felipebravo-96)
@@ -55,9 +55,10 @@ HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB, PostgreSQL, Git, Scr
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krqui&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="krqui" /></p>
+    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipebravo-96&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="Felipebravo-96" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krqui&theme=midnight-purple&show_icons=true&locale=en" alt="krqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipebravo-96&theme=midnight-purple&show_icons=true&locale=en" alt="Felipebravo-96" /></p>
     
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">My Repos</h2>
