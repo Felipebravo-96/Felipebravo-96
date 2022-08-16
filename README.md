@@ -64,5 +64,5 @@ HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB, PostgreSQL, Git, Scr
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">My Repos</h2>
 
-<a href = "https://github.com/krqui/PI-FT-26aDEMO"><img align="center"  src="https://res.cloudinary.com/dby5zzxin/image/upload/v1660673716/xrtmxxfydwg8dwaptpya.png" height="120"/></a>
+
 <a href = "https://github.com/LEOBC04/ECOMMERCE"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=leobc04&repo=ecommerce&theme=midnight-purple" /></a>
